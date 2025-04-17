@@ -10,3 +10,4 @@ so i have learned about
 * python operators 
 * python lists 
 * python slicing 
+* python updation list 
